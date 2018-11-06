@@ -9,6 +9,7 @@ Macaw::get('(:all)', function($fu) {
 Macaw::get('/','HomeController@home');
 Macaw::get('/translate','HomeController@translate');
 Macaw::get('/music_info','MusicController@getMusicInfo');
+Macaw::get('/get_user','UserController@getUserInfo');
 Macaw::post('/add_user','UserController@addUserInfo');
 Macaw::post('/add_like','MusicController@addLike');
 Macaw::post('/add_trash','MusicController@addTrash');
