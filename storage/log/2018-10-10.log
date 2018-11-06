@@ -1,0 +1,6 @@
+[2018-10-10 06:31:43] controller.ERROR: DB_ERROR:SQLSTATE[HY000] [2002] Connection refused [] []
+[2018-10-10 06:31:43] controller.ERROR: REDIS_ERROR:Connection refused [] []
+[2018-10-10 06:31:49] controller.ERROR: DB_ERROR:SQLSTATE[HY000] [2002] Connection refused [] []
+[2018-10-10 06:31:49] controller.ERROR: REDIS_ERROR:Connection refused [] []
+[2018-10-10 06:39:47] controller.ERROR: DB_ERROR:SQLSTATE[HY000] [2002] Connection refused [] []
+[2018-10-10 06:39:47] controller.ERROR: REDIS_ERROR:Connection refused [] []

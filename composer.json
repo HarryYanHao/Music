@@ -1,0 +1,21 @@
+{
+    "require":{
+        "noahbuscher/macaw": "dev-master",
+        "monolog/monolog": "^1.23",
+        "symfony/var-dumper": "^3.4",
+        "illuminate/database": "*",
+        "symfony/http-foundation":"^2.7"
+    },
+    "autoload": {
+        "classmap": [
+          "app/controllers",
+          "app/models",
+          "common",
+          "app/providers",
+          "app/service"
+        ],
+        "files":[
+            "common/helper/function.php"
+        ]
+    }
+}
