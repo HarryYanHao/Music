@@ -36,8 +36,8 @@ function boot(){
     $di = new Di();
     $di->setShared('log',\App\Providers\Log::bootLog());
     $di->setShared('db',\App\Providers\DB::bootDB());
-    $di->setShared('redis',\App\Providers\Redis::bootRedis());
-    $di->setShared('mongodb',\App\Providers\MongoDB::bootMongoDB());
+    //$di->setShared('redis',\App\Providers\Redis::bootRedis());
+    //$di->setShared('mongodb',\App\Providers\MongoDB::bootMongoDB());
     return $di;
 }
 function json($param){

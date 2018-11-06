@@ -48,3 +48,6 @@
 [2018-11-06 11:29:57] controller.ERROR: REDIS_ERROR:Connection refused [] []
 [2018-11-06 11:29:57] controller.ERROR: REDIS_ERROR:Connection refused [] []
 [2018-11-06 11:30:17] controller.ERROR: REDIS_ERROR:Connection refused [] []
+[2018-11-06 11:38:40] controller.ERROR: REDIS_ERROR:Connection refused [] []
+[2018-11-06 11:43:34] controller.ERROR: REDIS_ERROR:Connection refused [] []
+[2018-11-06 11:50:47] controller.ERROR: REDIS_ERROR:Connection refused [] []
